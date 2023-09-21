@@ -64,6 +64,6 @@ def index():
 
 
 if __name__ == '__main__':
-   # app.run(threaded=True, debug=True, use_debugger=False)# debug mode
+   # app.run(threaded=True, debug=True, use_debugger=False) # for debug mode
    app.run(threaded=True)
 
